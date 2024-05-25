@@ -16,7 +16,7 @@
 
 <br>
 
-[![@anushka_wije](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushka_wije")] [![@anushka_wije](https://img.icons8.com/fluency/48/000000/gmail-new.png "@anushka_wije")]
+[![@anushka_wije](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/matiasmontone) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/gmail-new.png "@anushka_wije")]
 
 <br>
 
