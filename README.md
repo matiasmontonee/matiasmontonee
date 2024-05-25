@@ -5,7 +5,7 @@
 
 ## About Me :
 
-- 🏢 I am currently working as a **Front-end Developer** at [FxW](https://fxw.vercel.app)
+- 🏢 I am currently working as a **Front-end Developer** at [FxW](https://fx-w.vercel.app/)
 - 🎓 Senior technician in web design and development.
 - 🎓 Former student at [Da Vinci School](https://davinci.edu.ar/)
 - 🏡'Lives in **Buenos Aires, Argentina**.
