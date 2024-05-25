@@ -1,5 +1,5 @@
 <div align="center" width="50">
-    <p>https://matiasmontone.vercel.app</p>	https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
+    <p>https://matiasmontone.vercel.app</p>
 </div>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Matías Montone</h1>
 
