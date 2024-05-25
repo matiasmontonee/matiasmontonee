@@ -32,12 +32,3 @@
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 
 <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/> <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/> <img src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/>
-
-
-<br>
-
-## GitHub Stats 📈 :
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats)
