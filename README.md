@@ -29,6 +29,6 @@
 <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png">
 
 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> <img src="https://img.icons8.com/ios-filled/50/000000/express-js.png"/>
 
 <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/> <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/> <img src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/>
