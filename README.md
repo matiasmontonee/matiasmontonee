@@ -24,7 +24,7 @@
 
 <br>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/redux.png"/> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> <img src="https://img.icons8.com/fluency/48/000000/nextjs.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
 
 <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"> [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 
