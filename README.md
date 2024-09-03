@@ -5,7 +5,7 @@
 
 ## About Me :
 
-- 🏢 I have worked as a **Front-end Developer** at [FxW](https://fx-w.vercel.app/).
+- 🏢 I have worked as a **Front-end Developer** at [WapiFirma](https://app.wapifirma.com/).
 - 🎓 Senior technician in web design and development.
 - 🎓 Former student at [Da Vinci School](https://davinci.edu.ar/).
 - 🏡 Lives in **Buenos Aires, Argentina**.
