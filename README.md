@@ -5,7 +5,7 @@
 
 ## About Me :
 
-- 🏢 I have worked as a **Front-end Developer** at [WapiFirma](https://app.wapifirma.com/) and as a **Full Stack Developer** at [Ro Medical](https://romedicalart.com).
+- 🏢 I am currently working as a **Full Stack Developer** at [LerenTools](https://lerentools.com). Previously, I have worked as a **Full Stack Developer** at [Ro Medical](https://romedicalart.com) and as a **Front-end Developer** at [WapiFirma](https://app.wapifirma.com/).
 - 🎓 Senior technician in web design and development.
 - 🎓 Former student at [Da Vinci School](https://davinci.edu.ar/).
 - 🏡 Lives in **Buenos Aires, Argentina**.
